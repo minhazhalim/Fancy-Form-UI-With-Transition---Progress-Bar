@@ -1,0 +1,15 @@
+{
+  "name": "fancy-form-ui",
+  "version": "1.0.0",
+  "description": "Fancy Form UI With Transition and Progress Bar",
+  "main": "script.js",
+  "scripts": {
+    "compiling": "node-sass -w sasstocss/style.scss sasstocss/style.css"
+  },
+  "keywords": [],
+  "author": "Minhaz Halim",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
